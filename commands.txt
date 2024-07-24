@@ -1,0 +1,5 @@
+EST:
+./slda est ./sample-data/images/train-data.dat sample-data/images/train-label.dat ./settings.txt 1.0 10 random ./tmp
+
+INF:
+./slda inf ./sample-data/images/test-data.dat ./sample-data/images/test-label.dat ./settings.txt ./tmp/final.model ./tmp_inf
