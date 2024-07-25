@@ -1,3 +1,4 @@
-/tmp/*
-/tmp_inf/*
+/tmp*/*
+/tmp_inf*/*
+
 
